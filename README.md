@@ -23,23 +23,6 @@ TinDog is a fully responsive, single-page website built using **Bootstrap 5**, d
 
 ---
 
-## 📁 Folder Structure
-
-tindog/
-├── index.html
-├── css/
-│ └── style.css
-├── images/
-│ ├── dog-img.jpg
-│ ├── iphone.png
-│ ├── techcrunch.png
-│ ├── mashable.png
-│ ├── bizinsider.png
-│ ├── tnw.png
-│ └── tindog-screenshot.png
-
----
-
 ## 📸 Demo Preview
 
 demo : ![image](https://github.com/user-attachments/assets/96ece373-d168-404e-9d73-ce66bc783d26)
